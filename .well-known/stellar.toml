@@ -1,0 +1,11 @@
+VERSION = "1"
+
+[[CURRENCIES]]
+code = "TESTCOINXYZ"
+issuer = "GBBZY2TO2SRA4BFW4QGNQHIAJKYJGM7POZ6JAIXTK7UEUR74NW4CFY7A"
+name = "TESTCOINXYZ"
+desc = "Decentralize Barter Coin - A token designed for peer-to-peer barter and trading of goods and services without traditional currency."
+conditions = "Use Cases: Peer-to-peer barter of goods & services, Community rewards system, Governance and voting. Roadmap: Q1 2026 - Official launch and DEX listing. Q2 2026 - Burning mechanism and mobile app integration."
+display_decimals = 7
+homepage = "https://TESTCOINXYZ.com"
+image = "https://i.imgur.com/PTJNwWC.png"
